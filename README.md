@@ -1,3 +1,5 @@
 # Demo 2
-
-some text
+ checking github cli 
+ ## github
+ some description about github
+ thins i jist change now
